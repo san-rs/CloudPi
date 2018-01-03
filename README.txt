@@ -1,7 +1,4 @@
 Project : CloudPi
-Members : Ramanathan Nachiappan (ASU ID : 1210822532)
-		  Suraj Ravishankar (ASU ID : 1210973176)
-
 
 Implementation:
 
