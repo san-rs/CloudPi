@@ -1,0 +1,3 @@
+To compile, run make.
+To run, execute pifft followed by the input file's path, e.g., "./pifft test.in".
+Two input files are provided as samples. test.in can finish quickly. ref.in takes much longer time.
